@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "百度云",
+      "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
+      "cate": "动作片,21&&喜剧片,22&&爱情片,23&&科幻片,24&&恐怖片,25&&动画电影,28&&国产剧,32&&大陆综艺,37&&国产动漫,42",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "片库",
+      "url": "http://pianku.cf/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&TV直播平台,39",
+      "click": true,
+      "wePlus": {}
+    },
+	{
+      "id": 1,
+      "name": "小收",
+      "url": "https://www.p4kan.com/inc/api.php",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&TV直播平台,39",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "太初",
+      "url": "https://www.tcmove.com/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+     
+    {
+      "id": 1,
+      "name": "宅看",
+      "url": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+      "cate": "动漫,4&&动漫电影,22&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&战争片,12&&国产剧,13&&4K专区,20",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "365影视",
+      "url": "http://video.365tx.com/api.php/provide/vod/at/xml/",
+      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&悬疑魔幻,20&&青春,21&&其他,29&&国产动漫,23&&日本动漫,24&&欧美动漫,25&&儿童,26&&动画片,27",
+      "click": true,
+      "wePlus": {}
+    },
+     {
+      "id": 1,
+      "name": "天天影视",
+      "url": "http://www.tiantysw.com/api.php/provide/vod/at/xml/",
+      "cate":"综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "嘀哩影视",
+      "url": "http://www.diliktv.com/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动作,6&&爱情,8&&喜剧,7&&科幻片,9&&恐怖片,10&&战争片,12&&国产剧,13&&港台剧,14&&嘀哩影视,40&&电视直播,39",
+      "click": true,
+      "wePlus": {}
+    },
+    
+    {
+      "id": 1,
+      "name": "1886资源",
+      "url": "http://cj.1886zy.co/inc/api.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "天空云",
+      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&大陆综艺,33&&国产动漫,28&&日本动漫,29",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "最大云",
+      "url": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,10&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "沃酷云",
+      "url": "http://api.wokuzy.com/api/xml/wokum3u8_s",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,14&&韩国剧,16&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "聚合云",
+      "url": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&大陆综艺,32&&日韩综艺,31&&国产动漫,25",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "OK云",
+      "url": "http://cj.okzy.tv/inc/apickm3u8s.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&内地综艺,26&&国产动漫,23",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "八戒云",
+      "url": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&日本剧,17&&内地综艺,96日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "速播云",
+      "url": "http://www.subo988.com/inc/maccms_subom3u8.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,18&&美国剧,15&&日本剧,14&&综艺,3&&动漫,4",
+      "click": false,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "快播云",
+      "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&日韩剧,15&&美国剧,16&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "88云",
+      "url": "http://www.88zyw.net/inc/m3u8.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15综艺,3&&国产动漫,22&&日本动漫,21&&欧美动漫,23",
+      "click": true,
+      "wePlus": {}
+    }
+  ]
+}

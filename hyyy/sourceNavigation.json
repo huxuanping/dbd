@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "name": "(新增)斗鱼轮播",
+      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
+      "url": "https://gitee.com/a780923/freed/raw/master/hyyy/douyu.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)hy电影(选IJK解码)",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": false,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "CIBN",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4200.jpg",
+      "url": "https://gitee.com/d780923/dbd/raw/db/cibn.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "爱系列",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/d780923/dbd/raw/db/ihot.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "咪咕体育",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4200.jpg",
+      "url": "https://gitee.com/d780923/dbd/raw/db/mgty.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "电视直播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2170.jpg",
+      "url": "https://gitee.com/d780923/dbd/raw/db/live.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "NEW系列",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
+      "url": "https://gitee.com/d780923/dbd/raw/db/newtv.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "YY轮播(选IKJ解码)",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": false,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
